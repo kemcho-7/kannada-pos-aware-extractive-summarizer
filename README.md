@@ -177,4 +177,6 @@ kannada-pos-extractive-summarizer/
 4. ROUGE Evaluation Metrics
 5. GSS Coefficient-Based Keyword Extraction
 6. Kannada NLP and Rule-Based Stemming Research
+7. News articles (http://www.prajavani.net/ ,http://www.kannadaprabha.com/, https://epaper.vijayavani.net/,https://udayavani.com/) and wikipedia.
+
 
