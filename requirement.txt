@@ -1,1 +1,10 @@
-
+stanza
+numpy
+pandas
+scikit-learn
+networkx
+nltk
+beautifulsoup4
+requests
+rouge-score
+tqdm
